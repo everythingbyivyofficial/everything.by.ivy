@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Shop | Everything By Ivy</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<header class="shop-header">
+
+<div class="logo">
+EVERYTHING BY IVY
+</div>
+
+<input
+type="text"
+id="searchInput"
+placeholder="Search products..."
+class="search-bar"
+>
+
+<a href="cart.html" class="cart-btn">
+Cart (<span id="cartCount">0</span>)
+</a>
+
+</header>
+
+<nav class="categories">
+
+<button onclick="filterProducts('All')">All</button>
+<button onclick="filterProducts('Bags')">Bags</button>
+<button onclick="filterProducts('Heels')">Heels</button>
+<button onclick="filterProducts('Sandals')">Sandals</button>
+<button onclick="filterProducts('Slippers')">Slippers</button>
+
+</nav>
+
+<section class="products-container" id="productsContainer">
+
+</section>
+
+<footer class="footer">
+
+<h3>Everything By Ivy</h3>
+
+<p>Where Style Meets Confidence</p>
+
+<p>Phone: 08168431899</p>
+
+<p>WhatsApp: 09120940116</p>
+
+<p>TikTok: @everythingbyivy</p>
+
+</footer>
+
+<script src="products.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
