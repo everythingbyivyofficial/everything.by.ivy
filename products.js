@@ -5,63 +5,63 @@ id:1,
 name:"Luxury Red Handbag",
 price:30000,
 category:"Bags",
-image:"images/red-bag.jpg"
+image:"https://kommodo.ai/i/gq8PkrzXc4CRXs6dmVMB"
 },
 
 {
 id:2,
-name:"Pink Tote Bag",
-price:17000,
+name:"Luxury Handbag (Multiple Colors Available)",
+price:18000,
 category:"Bags",
-image:"images/pink-tote.jpg"
+image:"https://kommodo.ai/i/2Bl98kkaL9sxyoK25vqv"
 },
 
 {
 id:3,
-name:"Pink Luxury Handbag",
-price:18000,
+name:"Pink Tote Bag",
+price:17000,
 category:"Bags",
-image:"images/pink-luxury.jpg"
+image:"https://kommodo.ai/i/ujDyrh3BcjIocXdxG7al"
 },
 
 {
 id:4,
-name:"Coach Mini Bags",
+name:"Coach Mini Bag",
 price:17000,
 category:"Bags",
-image:"images/coach-mini.jpg"
+image:"https://kommodo.ai/i/FVhPeJnYax4D44n38uCO"
 },
 
 {
 id:5,
-name:"Black Strappy Heels",
-price:28000,
-category:"Heels",
-image:"images/black-heels.jpg"
+name:"Gucci Shoulder Bag",
+price:22000,
+category:"Bags",
+image:"https://kommodo.ai/i/BuKlbmku1aUq8qs8UIv1"
 },
 
 {
 id:6,
-name:"Leopard Zara Heels",
-price:32000,
+name:"Black Luxury Heels",
+price:28000,
 category:"Heels",
-image:"images/leopard-heels.jpg"
+image:"https://kommodo.ai/i/FnR7tnd0IDFZBVfR6fdU"
 },
 
 {
 id:7,
-name:"Black Luxury Heels",
+name:"Elegant Black Heels",
 price:28000,
 category:"Heels",
-image:"images/luxury-black-heels.jpg"
+image:"https://kommodo.ai/i/5TLE32ukr2ATvrS5F7VS"
 },
 
 {
 id:8,
-name:"Designer Slippers",
-price:38000,
-category:"Slippers",
-image:"images/designer-slippers.jpg"
+name:"Leopard Print Zara Heels",
+price:32000,
+category:"Heels",
+image:"https://kommodo.ai/i/WC6tRcsu0ApsC5Bm0XFE"
 },
 
 {
@@ -69,15 +69,15 @@ id:9,
 name:"Brown Zara Heels",
 price:27000,
 category:"Heels",
-image:"images/brown-heels.jpg"
+image:"https://kommodo.ai/i/6iZRHBj8687KMb32rZpF"
 },
 
 {
 id:10,
-name:"Gucci Shoulder Bag",
-price:22000,
-category:"Bags",
-image:"images/gucci-bag.jpg"
+name:"Designer Luxury Slippers",
+price:38000,
+category:"Slippers",
+image:"https://kommodo.ai/i/LjLApNgw45z5PEEJzDX9"
 }
 
 ];
